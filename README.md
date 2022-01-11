@@ -1,5 +1,8 @@
 # Ihatov
 A Japanese alternative of Lorem ipsum for Atom text editor
+
+Open snippets.cson and paste the following code.
+
 ```
 '*':
   'Ihatov':
